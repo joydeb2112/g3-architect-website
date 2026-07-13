@@ -226,10 +226,13 @@ main>section {
 
 /* footer section styles */
 .footer {
+    height: 100px;
     max-width: 1440px;
-    margin: 0 auto;
+    margin: 20px 0 auto;
     text-align: center;
     background-color: #FFF4E7;
+    align-items: center;
+    justify-content: center;
 }
 
 /* responsive small device media query */
